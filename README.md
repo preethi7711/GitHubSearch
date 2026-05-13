@@ -228,5 +228,9 @@ No paid APIs are required. No OpenAI API is required.
 - richer sorting and filtering
 - multi-page dashboard navigation
 - deeper README quality scoring
+  
+## Live Demo
 
+[Try the App](https://search-smart-repo-agent.streamlit.app/)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://search-smart-repo-agent.streamlit.app/)
